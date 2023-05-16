@@ -24,3 +24,5 @@ pnpm-debug.log*
 *.sw?
 *.rar
 *.zip
+*.RAR
+*.ZIP
